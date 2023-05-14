@@ -1,0 +1,83 @@
+
+[
+    {
+        "id":1,
+        "imagen":"./img/vodka.png",
+        "nombre":"Vodka Absolut",
+        "descripcion":"Vodka absolut de 1LT",
+        "precio":1000
+    },
+    {
+        "id":2,
+        "imagen":"./img/cerveza.png",
+        "nombre":"Cerveza",
+        "descripcion":"Cerveza de 1L",
+        "precio":750
+    },
+    {
+        "id":3,
+        "imagen":"./img/gin.jpg",
+        "nombre":"Gin",
+        "descripcion":"Gin de 1L",
+        "precio":1500
+    },
+    {
+        "id":4,
+        "imagen":"./img/vino.jpg",
+        "nombre":"Vino",
+        "descripcion":"Vino de 1L",
+        "precio":1200
+    },
+    {
+        "id":5,
+        "imagen":"./img/whisky.jpg",
+        "nombre":"Whisky",
+        "descripcion":"Whisky de 1L",
+        "precio":2000
+    },
+    {
+        "id":6,
+        "imagen":"./img/champagne.jpg",
+        "nombre":"Champagne",
+        "descripcion":"Champagne de 1L",
+        "precio":2500
+    },
+    {
+        "id":7,
+        "imagen":"./img/ron.jpg",
+        "nombre":"Ron",
+        "descripcion":"Ron de 1L",
+        "precio":3000
+    },
+    {
+        "id":8,
+        "imagen":"./img/sidra.jpg",
+        "nombre":"Sidra",
+        "descripcion":"Sidra de 1L",
+        "precio":1100
+    },
+    {
+        "id":9,
+        "imagen":"./img/tequila.png",
+        "nombre":"Tequila",
+        "descripcion":"Tequila de 1L",
+        "precio":900
+    },
+    {
+        "id":10,
+       "imagen":"./img/vino_blanco.jpg",
+         "nombre":"Vino Blanco",
+         "descripcion":"Vino Blanco de 1L",
+        "precio":1600},
+        {
+            "id":11,
+           "imagen":"./img/sky.png",
+             "nombre":"Vodka Sky",
+             "descripcion":"Vodka de 1L",
+            "precio":1300},
+            {
+                "id":12,
+               "imagen":"./img/jagger.png",
+                 "nombre":"Jagermesteir",
+                 "descripcion":"Jagger de 1L",
+                "precio":3000}]
